@@ -14,6 +14,7 @@ const urlsToCache = [
   '/components/Settings.tsx',
   // External resources
   'https://cdn.tailwindcss.com',
+  'https://unpkg.com/@babel/standalone/babel.min.js',
   'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap',
   // esm.sh dependencies from importmap
   'https://esm.sh/react@^19.1.1',
